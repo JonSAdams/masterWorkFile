@@ -1,0 +1,34 @@
+.headerImage {
+    max-width: 250px;
+    height: auto; 
+    width: auto;
+    display: block;
+    margin: 0px auto;
+}
+
+h3 {
+    color: black;
+}
+.workBench_icon {
+    max-width: 25px;
+    height: auto; 
+    width: auto;
+    text-align: middle;
+    vertical-align: -5px;
+}
+
+.BWW_logo {
+    max-width: 25px;
+    height: auto; 
+    width: auto;
+    text-align: middle;
+    vertical-align: -5px;
+}
+
+.SONIC_logo {
+    max-width: 27px;
+    height: auto; 
+    width: auto;
+    text-align: middle;
+    vertical-align: 0px;
+}
