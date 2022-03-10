@@ -16,6 +16,13 @@ h3 {
     text-align: middle;
     vertical-align: -5px;
 }
+.Arbys_logo {
+    max-width: 30px;
+    height: auto; 
+    width: auto;
+    text-align: middle;
+    vertical-align: 0px;
+}
 
 .BWW_logo {
     max-width: 25px;
