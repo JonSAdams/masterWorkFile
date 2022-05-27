@@ -6,6 +6,12 @@
     margin: 0px auto;
 }
 
+.MainNavigation > li {
+    color: red;
+    display: inline;
+    text-decoration: none;
+}
+
 h3 {
     color: black;
 }
