@@ -49,3 +49,15 @@ h3 {
 .linkList {
     display: block;
 }
+
+.mainBox {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.levelTwo {
+    background-color: white;
+    border: 1px solid black;
+    margin-top: 10px;
+    padding-left: 10px;
+}
